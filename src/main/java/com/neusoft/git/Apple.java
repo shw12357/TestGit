@@ -6,4 +6,7 @@ public class Apple {
 		System.out.println("right.....");
 	}
 
+	public static void main(String[] args) {
+		System.out.println("left.....");
+	}
 }
